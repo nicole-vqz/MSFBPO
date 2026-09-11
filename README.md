@@ -27,7 +27,7 @@ La asignatura de Modelado de Sistemas Fisiológicos forma parte del plan de estu
 4. Emular la respuesta del circuito RLC en Simulink/Simscape al escalón, impulso, rampa y función sinusoidal.
 5. Simular la respuesta de los modelos matemáticos en Simulink/MATLAB al escalón, impulso, rampa y función sinusoidal.
 6. Sintonizar las ganancias de un controlador PID para eliminar el error entre la entrada y la salida del sistema.
-7. Obtener la respuesta en lazo abierto y en lazo cerrado con el controlador PID en Spyder/Python con la función de transferencia.
+7. Obtener la respuesta en lazo abierto y en lazo cerrado con el controlador PID en Python con la función de transferencia.
 
 ## Descripción detallada del sistema
 
@@ -36,9 +36,9 @@ Un circuito RLC representa un sistema de segundo orden que modeliza, de manera s
 Palabras clave: Circuito RLC; Controlador PID; Sistema respiratorio; Modelo matemático; Simulaciones numéricas.
 
 ## Lista de archivos incluidos en el repositorio
-1. Cuaderno computacional de MATLAB [.mlx].
+1. Cuaderno computacional de MATLAB [.mlx y .pdf].
 2. Modelo de Simulink [.slx].
-3. Archivos de Python [.py].
+3. Archivo de Python [.py].
 4. Imagen con los parámetros del controlador.
 5. Figuras de las simulaciones en Python (4) y Matlab (4) [.pdf].
 6. Figuras de las señales del osciloscopio (4).
